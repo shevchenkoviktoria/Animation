@@ -28,5 +28,8 @@ position: absolute;
     }
 }
 .character {
-    
+    color: white;
+    font-size: 4em;
+    transform: translateY(calc(sin(var(--angle)) * 100px));
+    animation: spiral 4s linear infinite;
 }
