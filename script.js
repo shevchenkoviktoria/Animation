@@ -1,4 +1,4 @@
-const words = "Viktoria's Animation"
+const words = "Spiral Animation"
 
 const ANIMATION_DURATION = 4000
 
